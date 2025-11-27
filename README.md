@@ -37,12 +37,9 @@ Displays the average daily usage hours across different countries such as:
 Canada, Denmark, France, India, Ireland, Mexico, Spain, Switzerland, Turkey, USA
 Helps compare global social media usage trends among students.
 
-Purpose of the Project
-This dashboard aims to:
+🎯Purpose of the Project
 Analyze social media addiction levels in students.
 Study the impact of different platforms on addiction.
 Examine mental health correlations.
-
 Understand usage behavior across countries and demographics.
-
 Provide an interactive environment for stakeholders (educators, researchers, policy makers) to derive insights.
