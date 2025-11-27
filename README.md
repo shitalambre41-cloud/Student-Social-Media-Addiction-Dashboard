@@ -38,6 +38,7 @@ Canada, Denmark, France, India, Ireland, Mexico, Spain, Switzerland, Turkey, USA
 Helps compare global social media usage trends among students.
 
 🎯Purpose of the Project
+
 Analyze social media addiction levels in students.
 Study the impact of different platforms on addiction.
 Examine mental health correlations.
